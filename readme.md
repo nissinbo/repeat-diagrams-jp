@@ -1,9 +1,8 @@
 # デザインダイアグラム作成ツール
 
-デザインダイアグラムを作成するためのShinyアプリ[repeat-diagrams](https://presc.sdu.dk/repeat-diagrams/)の日本語入力に対応し、pptx出力の機能を追加したもの。
-
 - [Shinyapps](https://nissinbo.shinyapps.io/repeat-diagrams-jp/)
-- [元ツールのソースコード](https://source.coderefinery.org/lcl/repeat-diagrams)
+
+デザインダイアグラムを作成するためのShinyアプリ[repeat-diagrams](https://presc.sdu.dk/repeat-diagrams/)の日本語入力に対応し、pptx出力の機能を追加したもの。
 
 ## 環境とセットアップについて
 
